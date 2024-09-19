@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-20T01:11:24 IST" name="Default suite" finished-at="2024-09-20T01:12:45 IST" duration-ms="80583">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:parallel.TestRunner2@38467116]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-09-20T01:11:24 IST" name="Default test" finished-at="2024-09-20T01:12:45 IST" duration-ms="80583">
+      <class name="parallel.TestRunner2">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:parallel.TestRunner2@38467116]" started-at="2024-09-20T01:11:24 IST" name="setUpClass" finished-at="2024-09-20T01:11:26 IST" duration-ms="1528" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@775c4054]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:parallel.TestRunner2@38467116]" started-at="2024-09-20T01:11:26 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-20T01:11:56 IST" duration-ms="30354" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["case 1"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Student Register Form"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:parallel.TestRunner2@38467116]" started-at="2024-09-20T01:11:56 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-20T01:12:16 IST" duration-ms="20243" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["case 1"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Student Register Form"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:parallel.TestRunner2@38467116]" started-at="2024-09-20T01:12:16 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-20T01:12:44 IST" duration-ms="27520" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["case 2"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Student Register Form"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:parallel.TestRunner2@38467116]" started-at="2024-09-20T01:12:44 IST" name="tearDownClass" finished-at="2024-09-20T01:12:45 IST" duration-ms="828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- parallel.TestRunner2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

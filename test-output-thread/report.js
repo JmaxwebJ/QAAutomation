@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"b7e34808-f27a-473c-8145-8ed2f41dedfa","feature":"Student Register Form","scenario":"case 1","start":1726774886452,"group":1,"content":"","tags":"@overall,@gpay,","end":1726774916642,"className":"passed"},{"id":"fecbc04a-2f33-4554-a923-c31b2597a2e0","feature":"Student Register Form","scenario":"case 2","start":1726774936914,"group":1,"content":"","tags":"@overall,@smoketest,","end":1726774964423,"className":"passed"},{"id":"75703179-583f-4db2-9444-de19585f977d","feature":"Student Register Form","scenario":"case 1","start":1726774916673,"group":1,"content":"","tags":"@overall,@gpay,","end":1726774936901,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});

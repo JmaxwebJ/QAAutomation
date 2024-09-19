@@ -1,0 +1,106 @@
+23:02:05.923 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+23:02:06.553 [TestNG-PoolService-0] INFO  - Values are enetered into first name , last name and email Text box
+23:02:06.960 [TestNG-PoolService-0] INFO  - enterPhone is executed successfully on Student form
+23:02:09.487 [TestNG-PoolService-0] INFO  - enteraddress is executed successfully on Student form
+23:06:37.951 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+23:06:37.951 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+23:06:39.866 [TestNG-PoolService-0] INFO  - Values are enetered into first name , last name and email Text box
+23:06:39.873 [TestNG-PoolService-1] INFO  - Values are enetered into first name , last name and email Text box
+23:06:40.339 [TestNG-PoolService-1] INFO  - enterPhone is executed successfully on Student form
+23:06:40.398 [TestNG-PoolService-0] INFO  - enterPhone is executed successfully on Student form
+23:09:03.110 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+23:09:03.110 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+23:09:04.847 [TestNG-PoolService-1] INFO  - Values are enetered into first name , last name and email Text box
+23:09:04.854 [TestNG-PoolService-0] INFO  - Values are enetered into first name , last name and email Text box
+23:09:05.526 [TestNG-PoolService-1] INFO  - enterPhone is executed successfully on Student form
+23:09:05.613 [TestNG-PoolService-0] INFO  - enterPhone is executed successfully on Student form
+23:12:12.217 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+23:12:12.217 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+23:12:13.161 [TestNG-PoolService-0] INFO  - Values are enetered into first name , last name and email Text box
+23:12:13.166 [TestNG-PoolService-1] INFO  - Values are enetered into first name , last name and email Text box
+23:12:13.810 [TestNG-PoolService-0] INFO  - enterPhone is executed successfully on Student form
+23:12:13.872 [TestNG-PoolService-1] INFO  - enterPhone is executed successfully on Student form
+23:18:45.868 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+23:18:45.868 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+23:18:47.459 [TestNG-PoolService-1] INFO  - Values are enetered into first name , last name and email Text box
+23:18:47.468 [TestNG-PoolService-0] INFO  - Values are enetered into first name , last name and email Text box
+23:25:59.084 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+23:25:59.084 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+23:26:00.470 [TestNG-PoolService-0] INFO  - Values are enetered into first name , last name and email Text box
+23:26:00.480 [TestNG-PoolService-1] INFO  - Values are enetered into first name , last name and email Text box
+23:26:01.222 [TestNG-PoolService-0] INFO  - enterPhone is executed successfully on Student form
+23:26:01.271 [TestNG-PoolService-1] INFO  - enterPhone is executed successfully on Student form
+23:30:01.460 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+23:30:01.460 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+23:35:12.603 [main] INFO  - Browser is launched successfully
+23:35:38.963 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+23:54:34.530 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+23:54:34.530 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+23:54:36.569 [TestNG-PoolService-0] INFO  - Values are enetered into first name , last name and email Text box
+23:54:36.617 [TestNG-PoolService-1] INFO  - Values are enetered into first name , last name and email Text box
+23:54:37.558 [TestNG-PoolService-1] INFO  - enterPhone is executed successfully on Student form
+23:54:37.629 [TestNG-PoolService-0] INFO  - enterPhone is executed successfully on Student form
+23:57:10.355 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+23:57:10.355 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+23:57:11.938 [TestNG-PoolService-0] INFO  - Values are enetered into first name , last name and email Text box
+23:57:11.944 [TestNG-PoolService-1] INFO  - Values are enetered into first name , last name and email Text box
+01:03:26.984 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+01:03:29.506 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+01:04:02.571 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+01:04:02.797 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+01:09:04.039 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+01:09:04.284 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+01:13:03.002 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+01:13:03.232 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+01:13:04.718 [TestNG-PoolService-0] INFO  - Values are enetered into first name , last name and email Text box
+01:13:05.704 [TestNG-PoolService-1] INFO  - Values are enetered into first name , last name and email Text box
+01:14:48.477 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+01:14:48.521 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+01:14:49.869 [TestNG-PoolService-1] INFO  - Values are enetered into first name , last name and email Text box
+01:14:49.874 [TestNG-PoolService-0] INFO  - Values are enetered into first name , last name and email Text box
+01:20:07.162 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+01:20:08.431 [TestNG-PoolService-0] INFO  - Values are enetered into first name , last name and email Text box
+01:20:51.750 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+01:20:57.051 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+01:20:58.714 [TestNG-PoolService-1] INFO  - Values are enetered into first name , last name and email Text box
+01:20:59.089 [TestNG-PoolService-0] INFO  - Values are enetered into first name , last name and email Text box
+01:20:59.622 [TestNG-PoolService-1] INFO  - enterPhone is executed successfully on Student form
+01:24:36.822 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+01:24:36.996 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+01:24:37.816 [TestNG-PoolService-0] INFO  - Values are enetered into first name , last name and email Text box
+01:24:38.268 [TestNG-PoolService-1] INFO  - Values are enetered into first name , last name and email Text box
+01:24:38.470 [TestNG-PoolService-0] INFO  - enterPhone is executed successfully on Student form
+01:24:39.251 [TestNG-PoolService-1] INFO  - enterPhone is executed successfully on Student form
+01:25:57.573 [TestNG-PoolService-0] INFO  - Browser is launched successfully
+01:25:57.856 [TestNG-PoolService-1] INFO  - Browser is launched successfully
+01:25:58.763 [TestNG-PoolService-0] INFO  - Values are enetered into first name , last name and email Text box
+01:25:59.115 [TestNG-PoolService-1] INFO  - Values are enetered into first name , last name and email Text box
+01:25:59.244 [TestNG-PoolService-0] INFO  - enterPhone is executed successfully on Student form
+01:25:59.535 [TestNG-PoolService-1] INFO  - enterPhone is executed successfully on Student form
+01:26:01.908 [TestNG-PoolService-0] INFO  - enteraddress is executed successfully on Student form
+01:26:02.078 [TestNG-PoolService-1] INFO  - enteraddress is executed successfully on Student form
+01:28:18.035 [main] INFO  - Browser is launched successfully
+01:28:18.522 [main] INFO  - Values are enetered into first name , last name and email Text box
+01:28:18.863 [main] INFO  - enterPhone is executed successfully on Student form
+01:28:21.263 [main] INFO  - enteraddress is executed successfully on Student form
+01:28:35.537 [main] INFO  - Browser is launched successfully
+01:06:49.308 [main] INFO  - Browser is launched successfully
+01:06:54.605 [main] INFO  - Values are enetered into first name , last name and email Text box
+01:06:55.015 [main] INFO  - enterPhone is executed successfully on Student form
+01:06:57.501 [main] INFO  - enteraddress is executed successfully on Student form
+01:07:20.982 [main] INFO  - Browser is launched successfully
+01:07:21.488 [main] INFO  - Values are enetered into first name , last name and email Text box
+01:07:21.832 [main] INFO  - enterPhone is executed successfully on Student form
+01:07:24.553 [main] INFO  - enteraddress is executed successfully on Student form
+01:11:43.628 [main] INFO  - Browser is launched successfully
+01:11:44.071 [main] INFO  - Values are enetered into first name , last name and email Text box
+01:11:44.420 [main] INFO  - enterPhone is executed successfully on Student form
+01:11:47.086 [main] INFO  - enteraddress is executed successfully on Student form
+01:12:04.232 [main] INFO  - Browser is launched successfully
+01:12:04.747 [main] INFO  - Values are enetered into first name , last name and email Text box
+01:12:05.111 [main] INFO  - enterPhone is executed successfully on Student form
+01:12:07.456 [main] INFO  - enteraddress is executed successfully on Student form
+01:12:31.265 [main] INFO  - Browser is launched successfully
+01:12:31.693 [main] INFO  - Values are enetered into first name , last name and email Text box
+01:12:32.260 [main] INFO  - enterPhone is executed successfully on Student form
+01:12:35.004 [main] INFO  - enteraddress is executed successfully on Student form
